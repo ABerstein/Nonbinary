@@ -1,0 +1,20 @@
+.gold{
+	background-color: gold;
+}
+.purple{
+	background-color:purple;
+	color: white;
+}
+.grey{
+	    background-color: #565555;
+    	color: white;
+}
+.parallelImg{
+	width: 100%;
+    min-height: 350px;
+    height: auto;
+    object-fit: cover;
+}
+.fullHeightContainer{
+	height: 100%;
+}
