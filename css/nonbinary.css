@@ -1,13 +1,16 @@
 .gold{
+	padding-top: 10px;
 	background-color: gold;
 }
 .purple{
+	padding-top: 10px;
 	background-color:purple;
 	color: white;
 }
 .grey{
-	    background-color: #565555;
-    	color: white;
+	padding-top: 10px;
+    background-color: #565555;
+	color: white;
 }
 .parallelImg{
 	width: 100%;
@@ -24,7 +27,24 @@
 	margin-bottom: 1rem;
 }
 .nb-caption{
-	font-family: helvetica;
+	font-family: Georgia;
 	font-size: 1 rem;
 	color: darkgray;
+}
+
+.byline{
+	font-family: Georgia;
+	font-size: 1 rem;
+	font-weight: bold;
+	color: black;
+}
+figure{
+	border: 0px solid black;
+	margin-left: center;
+	margin-right: center;
+	padding: 0px;
+	display:block;
+}
+.bottitle{
+	padding-top: 10px;
 }
